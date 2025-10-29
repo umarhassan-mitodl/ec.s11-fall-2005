@@ -5,8 +5,6 @@ description: 'This resource contains the information regarding Continuum of Care
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/5d6704e150d987e9d578bca23f572f39_MITEC_S11F05_link_intro.pdf
 file_size: 159804
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

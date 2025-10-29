@@ -4,8 +4,6 @@ description: This resource contains the information regarding Generic Drugs.
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/218faf2e386f230e19a45a6334e2d81d_MITEC_S11F05_hw2_kim.pdf
 file_size: 114764
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

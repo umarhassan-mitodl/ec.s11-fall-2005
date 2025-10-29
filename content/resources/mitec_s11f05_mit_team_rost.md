@@ -5,8 +5,6 @@ description: This resource contains the information regarding Hello Participants
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/b5eba01340a06af4fd2e445b6b89784c_MITEC_S11F05_mit_team_rost.pdf
 file_size: 158267
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: 'This resource contains the information regarding HIV/ AIDS Diagnos
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/1f63f2fe93b09f700730595aba6ecea9_MITEC_S11F05_hw2_doup.pdf
 file_size: 114195
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

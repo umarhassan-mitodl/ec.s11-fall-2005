@@ -4,8 +4,6 @@ description: This resource contains the information regarding HBC Chart.
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/99907f7ab4901a25492eed55a228cd31_MITEC_S11F05_hbc_chart.pdf
 file_size: 100883
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

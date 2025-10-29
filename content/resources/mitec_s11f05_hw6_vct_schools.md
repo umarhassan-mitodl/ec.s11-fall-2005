@@ -5,8 +5,6 @@ description: This resource contains the information regarding We'd like to propo
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/7965496390b8bfc8fe415c4c7a7e2188_MITEC_S11F05_hw6_vct_schools.pdf
 file_size: 207313
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

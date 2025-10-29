@@ -4,8 +4,6 @@ description: This resource contains the information regarding VCT for youth.
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/8f3d5d18606d7fe8156a8ffb6b1b9d8c_MITEC_S11F05_kafue_vct.pdf
 file_size: 123573
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

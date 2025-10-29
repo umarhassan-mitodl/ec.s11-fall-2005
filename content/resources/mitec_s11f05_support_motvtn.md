@@ -5,8 +5,6 @@ description: This resource contains the information regarding Motivation and Sol
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/84010858f5fda2b2569804b1813bdfa2_MITEC_S11F05_support_motvtn.pdf
 file_size: 121422
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

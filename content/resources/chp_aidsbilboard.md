@@ -7,8 +7,6 @@ description: This public service message billboard is in the community of Matero
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/8adf19c17edc9a90bdf0549687fdee85_chp_aidsbilboard.jpg
 file_size: 67922
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -5,8 +5,6 @@ description: 'This resource contains the information regarding Preface: courntry
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/47725d77f67f168200cbe4203b8314c4_MITEC_S11F05_zmb_ucsfcntry.pdf
 file_size: 1532535
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

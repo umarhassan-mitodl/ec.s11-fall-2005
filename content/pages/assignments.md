@@ -2,8 +2,6 @@
 content_type: page
 description: The assignment section contains 6 homework files which are designed to
   support the major projects.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

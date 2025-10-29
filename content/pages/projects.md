@@ -3,8 +3,6 @@ content_type: page
 description: 'The projects section contains information about three project documents:
   two final reports at the end of each module, and then a final proposal, also contains
   11 example files of student work on the projects.'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
